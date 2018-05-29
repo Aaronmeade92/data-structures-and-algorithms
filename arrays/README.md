@@ -1,6 +1,6 @@
 Reverse an Array
 Reverse array method will take in an array in as an argument and return the array in reverse.
-<img src = "C:\Users\Aaron Meade\codefellows\401n5\data-structures-and-algorithms\arrays\assets\Binary_search.JPG" ></img>
+<img src = "assets/Binary_search.JPG"/>
 
 Challenge
 avoid using built in Javascript methods.
