@@ -21,3 +21,9 @@ Challenge
 Binary Algorithms
 
 <img src = "assets/Binary_search.JPG"/>
+
+### Array Adjacent Product 
+Take a 2D array and find it's two largest products and multiply them to find their product 
+
+<img src = "assets/whiteboard_04.JPG"/>
+
