@@ -27,3 +27,11 @@ Take a 2D array and find it's two largest products and multiply them to find the
 
 <img src = "assets/whiteboard_04.jpg"/>
 
+### ll_insertions 
+Write methods in insert a node into a linked list at various points of the list
+
+<img src = "assets/Whiteboard_06.jpg"/>
+
+
+
+
