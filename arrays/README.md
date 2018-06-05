@@ -32,6 +32,7 @@ Write methods in insert a node into a linked list at various points of the list
 
 <img src = "assets/Whiteboard_06.jpg"/>
 
+### ll_kth_from_end
+Write a method that finds the value of node specified by a input
 
-
-
+<img src = "assets/Whiteboard_07.jpg"/>
