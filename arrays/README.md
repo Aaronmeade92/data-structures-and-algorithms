@@ -36,3 +36,14 @@ Write methods in insert a node into a linked list at various points of the list
 Write a method that finds the value of node specified by a input
 
 <img src = "assets/Whiteboard_07.jpg"/>
+
+### ll_merge
+Write a method that merges two linked lists at alternating nodes
+
+<img src = "assets/ll_merge_01.jpg"/>
+<img src = "assets/ll_merge_02.jpg"/>
+
+### ll_detect_loop
+Write a method that detects a loop withing a singly linked list
+
+<img src = "assets/ll_detect_loop.jpg"/>
