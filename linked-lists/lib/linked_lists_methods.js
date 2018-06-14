@@ -1,6 +1,8 @@
 'use strict';
 
-class linkedList{
+class LinkedList{
+
+
     constructor(data){
      this.head = null;
      this.length = 0;
@@ -19,10 +21,15 @@ class linkedList{
        const newNode = {value};
        newNode.next = this.head;
        this.head = newNode;
-       return newNode;
+       return this;
    };
+   reverseList(){
+       let head = this.head;
+       let next = head.next;
+   }
 }
 
-const list = new LinkedList('first').append('second');
-const secondList = new LinkedList('second').prepend('first');
+module.exports = LinkedList;
+// const list = new LinkedList('first').append('second');
+// const secondList = new LinkedList('second').prepend('first');
 
