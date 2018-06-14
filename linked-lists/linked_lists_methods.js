@@ -1,11 +1,11 @@
 'use strict';
 
 class linkedList{
-    Node(data){
+    constructor(data){
      this.head = null;
      this.length = 0;
-     this.append(value);
-   };
+     this.next = null;
+   }
 
    append(value) {
        const newNode = {value};
@@ -15,6 +15,14 @@ class linkedList{
        return this;
    };
 
+   prepend(value) {
+       const newNode = {value};
+       newNode.next = this.head;
+       this.head = newNode;
+       return newNode;
+   };
 }
 
 const list = new LinkedList('first').append('second');
+const secondList = new LinkedList('second').prepend('first');
+
