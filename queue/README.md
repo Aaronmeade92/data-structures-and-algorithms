@@ -3,4 +3,4 @@
 Write an enqueue and dequeue method on a queue
 
 
-<img src = '../assets/whiteboard_11.jpg>
+<img src = "../assets/whiteboard_11.jpg"/>
